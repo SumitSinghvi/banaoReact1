@@ -1,0 +1,16 @@
+* {
+    font-family: "Poppins", sans-serif;
+}
+
+@media (max-width: 768px) {
+    .brand-logo {
+      height: 32px;
+      width: 152px;
+    }
+}
+@media (min-width: 768px) {
+    .brand-logo {
+      height: 60px;
+      width: auto;
+    }
+}
